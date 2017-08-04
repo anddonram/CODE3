@@ -1,0 +1,229 @@
+﻿<GenerateInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="WaveEditor.Exporter.Model">
+  <files xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/candle.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>14d9994350a381bf0d663f1a1332bf10</FileHash>
+        <WinfoHash>975488aba905a40252d8f7603f5c0d19</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/castle.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>f6dc176ea5f896758f18be0a1d33ee72</FileHash>
+        <WinfoHash>708a9b3aa62378ecaa79ca823ba002ab</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/cloud.PNG#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>e2c04330b2b5223ae1550a54f743c9b4</FileHash>
+        <WinfoHash>ad531e7bb1f49b82f68f66cbdcbdf05f</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/cottage.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>e6b1f7f93128ae9db804ba457749067f</FileHash>
+        <WinfoHash>87e1b1c5b597637120e1d4069902cc91</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/cross.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>56a0e6c597e5d45e87266678d231106e</FileHash>
+        <WinfoHash>2899fe8b6719b06d2574ab23cbc3a274</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/fire.jpg#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>15eabbd19b6b33bb33e1df443115728f</FileHash>
+        <WinfoHash>8bc8cf9ca5bf6007664b5ca62694c4c6</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/persona.spritesheet#WaveEditor.Exporter.Exporters.SpriteSheetExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>7acc4d59a1d2f42a3a728c3ed790fda7</FileHash>
+        <WinfoHash>418609818f0154695c32bf98f631640d</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/persona32px-mirrored.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>c4c96d397f4bdcd2ef28a0f03f6509a1</FileHash>
+        <WinfoHash>a58cc6fc36e2671bd868e45caa18c5ec</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/persona32px.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>b1a2b6087e675f12ddeefdbbb04cc6db</FileHash>
+        <WinfoHash>b078881053340c3ee25c2ab57f0321a3</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/puente.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>21bc542c49f940cd28bb97e65437aa03</FileHash>
+        <WinfoHash>f1ffa47d7cd1fbc85469cad5939c8619</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/rio.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>b964c35057548b6fa056ea4c8a3d1597</FileHash>
+        <WinfoHash>e22cdcbeafb62434489dc591c8e15dc7</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/road.PNG#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>e744e23effe9e05eac303df1cca52b84</FileHash>
+        <WinfoHash>c7b53752fd973571357b3586b72b9393</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/rock.PNG#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>fdb2da08f07d84c9b5339e571b06b537</FileHash>
+        <WinfoHash>de4c847a28073ff692a3f4e1df7724d1</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/tshirt.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>9a660c92f8eac849b2012aef13751719</FileHash>
+        <WinfoHash>db12f977aeafa2d60b6c52a818c61a65</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/tshirtreverted.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>e168cea0aaa02c5c21c626bf88bf1cea</FileHash>
+        <WinfoHash>eca93f009be691109ea29c88c6c75f4f</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/tshirtsheet.spritesheet#WaveEditor.Exporter.Exporters.SpriteSheetExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>b17b6d226995f10695edd7565ca83922</FileHash>
+        <WinfoHash>79d980f2298470cd94bc5c5e10cc6c82</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/uibackground.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>21bc542c49f940cd28bb97e65437aa03</FileHash>
+        <WinfoHash>d6f75cced6b60a05ce9558e2e443dee6</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/Sounds/Chopping.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>50e0b7e4279ba91c3a961c00a287a24d</FileHash>
+        <WinfoHash>dc230743c6c17bcbd468983f93f24e67</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/Sounds/Move1.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>a6d0f5d91ddfd3bdd26bbe649038ade5</FileHash>
+        <WinfoHash>a6e58dc7c3b1d86f86dc867abacf2d32</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/Sounds/Move2.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>47946aafe945458ee54ff9d4a347af94</FileHash>
+        <WinfoHash>5bcfdf2f744f044d6b2aa91b36c0c2dc</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:\Users\Andrés\Documents\Curso 2016-2017\2 Cuatrimestre\TFG\Proyecto\Codigo\Content\Assets\Tiles\Map.tmx#WaveEditor.Exporter.Exporters.ByPassExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>e3a6c6b30523831b27047b74f88c2dc4</FileHash>
+        <WinfoHash>1f4e1c7d199066b19521ee77b38bf220</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:\Users\Andrés\Documents\Curso 2016-2017\2 Cuatrimestre\TFG\Proyecto\Codigo\Content\Assets\Tiles\Map_12_20.tmx#WaveEditor.Exporter.Exporters.ByPassExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>f9ca63e9cc925fec80db86e3eb3ccc17</FileHash>
+        <WinfoHash>34e122e81ac5cdea290d499ebbb13d8c</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/Tiles/tilesets/tmw_desert_spacing.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>4b035657115067fdf120792a44a672f0</FileHash>
+        <WinfoHash>283cd84c97f37a5b7bdcfdc1c1592fb1</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/ball.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>64abdf46d8c828f74051c96c0285a000</FileHash>
+        <WinfoHash>825329f8af693821e56f3e43d54a043f</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/Blank.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>5a0564c6d5d40c88d89264cdf5afc741</FileHash>
+        <WinfoHash>6846413a27037b3ea21c1bc935205c7a</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/bush.PNG#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>2510f39fea0113cc387b45834eecdbfe</FileHash>
+        <WinfoHash>e69c0812681f98e7778f3a211461364f</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/particleFire.png#WaveEditor.Exporter.Exporters.TextureExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>8efe2b65c71d1c67e13401aefff43da3</FileHash>
+        <WinfoHash>6b820d6d08a520d34a500a657ce4b6d4</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/Sounds/Build.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>8a61581608c57a8f4627179a66606ab6</FileHash>
+        <WinfoHash>bf71185d0ec1f555e1f31e2436269d09</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/Sounds/Fighting.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>86693985642028864cdfaea03205bf34</FileHash>
+        <WinfoHash>7dd4955475bfb162a2e370f24b6b1ed8</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/Sounds/Healing.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>207c977ea46a829378869507742a9148</FileHash>
+        <WinfoHash>0e55f05b90f19cce898cc161797375f8</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/Sounds/Enter.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>b28cef49c6e9301e89721b80a06c0738</FileHash>
+        <WinfoHash>18b0b138c2053233d28f978e55177453</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+    <d2p1:KeyValueOfstringFileHashesH8kexHFU>
+      <d2p1:Key>C:/Users/Andrés/Documents/Curso 2016-2017/2 Cuatrimestre/TFG/Proyecto/Codigo/Content/Assets/Sounds/Exit.wav#WaveEditor.Exporter.Exporters.SoundExporter</d2p1:Key>
+      <d2p1:Value>
+        <FileHash>a44f9edf96c2f56a1b04bf146bcaf781</FileHash>
+        <WinfoHash>7fd5177693e502f0108ee29d1e9c4d65</WinfoHash>
+      </d2p1:Value>
+    </d2p1:KeyValueOfstringFileHashesH8kexHFU>
+  </files>
+  <id>BFEBFBFF000306D4</id>
+</GenerateInfo>

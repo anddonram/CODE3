@@ -1,0 +1,7 @@
+# Visual Studio 2015 cache directory
+/.vs/
+/Intermediate/
+/packages/
+WaveContent.cs
+/Launchers/Windows/bin/
+/Launchers/Windows/obj/

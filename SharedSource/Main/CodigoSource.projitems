@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>846d34c8-e537-4dc7-b646-cff649ce42e4</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Codigo</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Algorithms\AStar.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Algorithms\AStarTileComparer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Algorithms\DStarLite.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Algorithms\DStarTileComparer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Effects\EffectsBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FogOfWar\Adjacents\BuildingFogAdjacents.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FogOfWar\Adjacents\CandleFogAdjacents.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FogOfWar\Adjacents\CottageFogAdjacents.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FogOfWar\FogAdjacents.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FogOfWar\FogClearBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FogOfWar\FogOfWar.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FogOfWar\FogRevealBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FogOfWar\PartialFog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Game.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUI\ActionHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUI\CustomGUI\CustomButton.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUI\CustomGUI\CustomRadioButton.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUI\CustomGUI\CustomTextBox.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUI\CustomGUI\ToggleSwitch2.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUI\CustomGUI\ToggleSwitchBehavior2.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUI\DStarDrawable.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUI\MouseEnterBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\Camera2DBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\Gesture.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\CommandEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\Commands\ActionCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\Commands\ActionReceiver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\Commands\Command.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\Commands\Invoker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\Commands\Receiver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\KeyBindings.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\KeyCombination.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\KeyListenerBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\KeysBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\MouseEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\Player.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Input\UIBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Legacy\ChildBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Legacy\FogToggleBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Legacy\MovementBehaviorAlt.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Legacy\MovementBehaviorLegacy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Legacy\MySceneBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Map\Map.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Map\PopulateGame.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Map\PopulateInitialPosition.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\KeysScene.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\MyScene.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\PlayableScene.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\TestScene.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Sound\SoundHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tests\ChopBehaviorTest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tests\CustomTextTest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tests\FakeTreeTest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tests\FogOfWarTest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tests\MovementBehaviorAltTest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tests\MovementBehaviorTest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tests\TrapBehaviorTest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tests\WorldObjectTest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUI\PathDrawable.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)VictoryConditions\CastleCondition.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)VictoryConditions\NoPeopleCondition.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)VictoryConditions\VictoryBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)VictoryConditions\VictoryCondition.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WaveContent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\ActionBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\ActionEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\AnimationBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Actions\BuildBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Actions\ChopBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Actions\EnterExitBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Actions\FightBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Actions\HealBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Actions\MovementBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Actions\SwitchBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Actions\TrainBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Classes\Building.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Classes\CandleBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Classes\Castle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Classes\Cottage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Classes\Person.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Classes\TrapBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Classes\TreeBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Data\BridgeData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Data\CandleData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Data\CastleData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Data\CottageData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Data\FakeTreeData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Data\PersonData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Data\RockData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Data\TrapData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Data\TreeData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Data\WaterData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Traits\BridgeTraits.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Traits\CottageFightTraits.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Traits\FakeTreeTraits.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Traits\FightTraits.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Traits\PersonFightTraits.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Traits\TrapTraits.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\Traits\WaterTraits.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\WorldObject.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\WorldObjectData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorldObject\WorldObjectTraits.cs" />
+  </ItemGroup>
+</Project>
